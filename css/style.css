@@ -12,6 +12,7 @@ body{
     color: #333333;
 }
 .conteudo{
+    
     width: 80%;
     margin: 0 auto; 
     
@@ -37,18 +38,15 @@ body{
 .experiencia{
     display: flex;
     align-items: center;
-    margin-top: 30px;
+    justify-content: space-between;
 
-   
 }
 .esquerda{
-    flex: 1;
+    width: 20%;
     text-align: right;
-    margin-right: 30px;
 }
 .direita{
-    flex:2;
-
+    width: 78%;
 }
 .titulo-sessao{
     text-transform: uppercase;
@@ -61,4 +59,7 @@ body{
     display: flex;
     justify-content: space-between;
     padding-right: 10px;
+}
+.experiencias{
+   
 }
