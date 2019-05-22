@@ -63,3 +63,6 @@ body{
 .experiencias{
    
 }
+.alinhar-top{
+    align-items: flex-start;
+}
