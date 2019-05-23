@@ -76,3 +76,43 @@ h3{
     padding: 20px;
     margin-top: 30px;
 }
+.skills{
+    display: flex;
+    justify-content: space-between;
+}
+.barra{
+    
+    height: 10px;
+    background: #000000;
+    margin-left: 10px;
+    border-radius: 5px;
+
+}
+.percentual-100{
+    width: 100%;
+    background:pink;
+
+}
+.percentual-90{
+    width: 90%;
+}
+.percentual-80{
+    width: 80%;
+}
+.percentual-50{
+    width: 50%;
+}
+.percentual-30{
+    width: 30%;
+}
+.percentual-60{
+    width: 60%;
+}
+.habilidades{
+    width: 48%;
+    
+}
+.habilidades div{
+    display: flex;
+    align-items: center;
+}
