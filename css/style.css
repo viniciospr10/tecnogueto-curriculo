@@ -51,6 +51,10 @@ body{
 .titulo-sessao{
     text-transform: uppercase;
 }
+h3{
+    text-transform: uppercase;
+}
+
 .info{
     margin-bottom: 10px;
 }
@@ -60,9 +64,7 @@ body{
     justify-content: space-between;
     padding-right: 10px;
 }
-.experiencias{
-   
-}
+
 .alinhar-top{
     margin-top: 10px;
     align-items: flex-start;
